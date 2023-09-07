@@ -31,17 +31,17 @@ const Home = () => {
             alt="sol"
           />
         </div>
-        <h1 className="h1">Solana, meet thirdweb 👋</h1>
+        <h1 className="h1">Hello, California, from Earth</h1>
         <p className="explain">
-          Explore what you can do with thirdweb&rsquo;s brand new{" "}
+          Explore New Frontiers in Non-fungible Technology with{" "}
           <b>
             <a
-              href="https://portal.thirdweb.com/solana"
+              href="https://sol.nftearth.exchange"
               target="_blank"
               rel="noopener noreferrer"
               className="lightPurple"
             >
-              Solana SDK
+              Solana NFTs infused with AI
             </a>
           </b>
           .
